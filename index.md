@@ -1,6 +1,12 @@
-## Welcome to the big trash can
+# Welcome to the big trash can
 
-You can find all kinds of trash here.  Big trash. Little trah.  Smelly trash.  Clean trash. Whatever kind of trash you are looking for we have it.
+You can find all kinds of trash here.  
+- Big trash. 
+- Little trah.  
+- Smelly trash. 
+- Clean trash. 
+
+**Whatever kind of trash you are looking for we have it.**
 
 
 ### Markdown
