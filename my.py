@@ -22,6 +22,11 @@ def average(array):
 
     return set_sum / set_len
 
+def add2num(num1,num2):
+	return int(num1 + num2)
+
+
+
 
 
 # End of File
