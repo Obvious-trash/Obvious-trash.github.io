@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the big trash can
 
-You can use the [editor on GitHub](https://github.com/adam-isobvious/adamb-isobvious.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find all kinds of trash here.  Big trash. Little trah.  Smelly trash.  Clean trash. Whatever kind of trash you are looking for we have it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
