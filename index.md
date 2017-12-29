@@ -1,8 +1,7 @@
 ## Welcome to the big trash can
 
-You can find all kinds of trash here.
+You can find all kinds of trash here.  Big trash. Little trah.  Smelly trash.  Clean trash. Whatever kind of trash you are looking for we have it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
