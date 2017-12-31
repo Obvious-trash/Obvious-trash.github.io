@@ -7,7 +7,7 @@ You can find all kinds of trash here.
 - Clean trash. 
 
 **Whatever kind of trash you are looking for we have it.**
-
+You can [go here](help.html) for help.
 
 ### Markdown
 
