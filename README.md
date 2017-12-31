@@ -1,2 +1,1 @@
--# adamb-isobvious.github.io
- -This is a temporary repo for exploring using GitHub Pages
+This is a website about trash and what to do with it.
